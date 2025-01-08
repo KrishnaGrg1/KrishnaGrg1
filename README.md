@@ -1,5 +1,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaGrg1&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGrg1&layout=compact&theme=dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KrishnaGrg1&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnaGrg&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnaGrg1&theme=dark&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaGrg1&theme=react-dark)
