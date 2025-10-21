@@ -23,7 +23,7 @@
 
 <img align="right" height="250" src="assets/cover.svg" />
 <h4>Language and Tools I use</h4>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,postman,vercel,nextjs,react,svelte,zustand,tailwind,css,python" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,postgres,mongodb,mysql,postman,vercel,nextjs,react,svelte,zustand,tailwind,css,python" />
 
 
 <h4>Exploring</h4>
