@@ -45,44 +45,6 @@ const krishna = {
 
 ---
 
-## 🛠️ Currently Building — Banau
-
-<div align="center">
-
-![WIP](https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge&logo=github)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-KrishnaGrg1/banau-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaGrg1/banau)
-
-> A production-grade **multi-tenant SaaS e-commerce platform** where each merchant gets
-> their own subdomain storefront, dashboard, staff management & Stripe payments — in one monorepo.
-
-</div>
-
-### 🏗️ Monorepo Architecture
-
-```
-banau/                        ← Turborepo monorepo (pnpm workspaces)
-├── apps/
-│   ├── backend/              ← NestJS REST API  (multi-tenant, JWT auth)
-│   └── frontend/             ← TanStack Start + React (subdomain-aware)
-└── packages/
-    ├── db/                   ← Prisma schema + PostgreSQL migrations
-    └── shared/               ← Shared DTOs & TypeScript types
-```
-
-### ⚡ What's Being Built
-
-| Feature | Status |
-|---|---|
-| 🏪 Multi-Tenant Subdomain Storefronts | 🔨 In Progress |
-| 🔐 JWT Auth (access + refresh, HTTP-only cookies) | 🔨 In Progress |
-| 💳 Stripe Payments & Webhooks | 🔨 In Progress |
-| 🖼️ Cloudinary Media Uploads | 🔨 In Progress |
-| 👥 Staff Management + Email Invites | 🔨 In Progress |
-| 📦 Inventory, Variants & Bulk Import/Export | 🔨 In Progress |
-| 🛒 Public Storefront (cart, checkout, orders) | 🔨 In Progress |
-| 📊 Analytics Dashboard | 🔨 In Progress |
-| ⚙️ Docker & CI/CD Deployment | 🔨 In Progress |
-
 ### 🛠️ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -98,20 +60,6 @@ banau/                        ← Turborepo monorepo (pnpm workspaces)
 
 ---
 
-## 🗂️ Other Projects
-
-<div align="center">
-
-<a href="https://github.com/KrishnaGrg1/LevelUp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaGrg1&repo=LevelUp&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/KrishnaGrg1/blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaGrg1&repo=blog&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
 
 ## 🛠️ Full Tech Stack
 
